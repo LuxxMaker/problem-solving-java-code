@@ -1,4 +1,4 @@
-# 916. Word Subsets [[link]](https://leetcode.com/problems/word-subsets/description/?source=submission-noac)
+# 916. Word Subsets [[Link]](https://leetcode.com/problems/word-subsets/description/?source=submission-noac)
 
 You are given two string arrays words1 and words2.
 

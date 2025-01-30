@@ -1,6 +1,6 @@
 # 2658. Maximum Number of Fish in a Grid
 
-## Problem Description
+## Problem Description [[Link](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)]
 
 You are given a 0-indexed 2D matrix grid of size m x n, where (r, c) represents:
 
@@ -15,6 +15,7 @@ A fisher can start at any water cell (r, c) and can do the following operations 
 Return the maximum number of fish the fisher can catch if he chooses his starting cell optimally, or 0 if no water cell exists.
 
 An adjacent cell of the cell (r, c), is one of the cells (r, c + 1), (r, c - 1), (r + 1, c) or (r - 1, c) if it exists.
+
 
 ## Solution
 
