@@ -10,3 +10,4 @@
 
 ## Hard
 - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](src/main/java/hard/p1368/Solution.md) 
+- [2493. Divide Nodes Into the Maximum Number of Groups](src/main/java/hard/p2493/diviceNodesIntoTheMaximumNumberGroups/Solution.md)
