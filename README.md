@@ -1,6 +1,7 @@
 # LeetCode Java Solutions
 
 ## Easy
+- [3151. Special Array I](src/main/java/eady/p3151/specialArrayI/Solution.java)
 
 ## Medium
 - [916. Word Subsets](src/main/java/medium/p916/wordsubsets/Solution.md)
