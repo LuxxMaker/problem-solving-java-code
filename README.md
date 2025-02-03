@@ -1,6 +1,7 @@
 # LeetCode Java Solutions
 
 ## Easy
+- [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](src\main\java\easy\p3105\longestStrictlyIncreasingOrStrictlyDecreasingSubarray\Solution.java)
 
 ## Medium
 - [916. Word Subsets](src/main/java/medium/p916/wordsubsets/Solution.md)
